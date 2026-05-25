@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Allo Inventory Reservation Demo
 
 This is a Next.js App Router application that implements inventory reservations for a multi-warehouse retail system.
@@ -31,3 +32,4 @@ Install dependencies:
 npm install
 =======
 # Allo-Inventery-Reservation
+>>>>>>> 7776545d016528e0e21445e82d079e2627506649
