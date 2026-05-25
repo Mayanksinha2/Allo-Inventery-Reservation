@@ -1,7 +1,10 @@
-<<<<<<< HEAD
 # Allo Inventory Reservation Demo
 
 This is a Next.js App Router application that implements inventory reservations for a multi-warehouse retail system.
+
+## Project Description
+
+A full-stack inventory reservation system for multi-warehouse retail brands. It supports concurrency-safe stock reservations, checkout expiry, reservation confirmation, cancellation, and real-time stock updates.
 
 ## Features
 
@@ -20,7 +23,7 @@ This is a Next.js App Router application that implements inventory reservations 
 - Next.js App Router
 - TypeScript
 - Prisma
-- Hosted Postgres via Supabase/Neon
+- Neon PostgreSQL
 - Tailwind CSS
 - Zod
 
@@ -30,6 +33,3 @@ Install dependencies:
 
 ```bash
 npm install
-=======
-# Allo-Inventery-Reservation
->>>>>>> 7776545d016528e0e21445e82d079e2627506649
